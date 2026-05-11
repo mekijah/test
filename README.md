@@ -39,4 +39,4 @@ Record a short [Loom video](https://www.loom.com) showing how it works, includin
 
 ### 4. Deadline
 
-Please complete and submit the result within 24 hours unless otherwise discussed.# test
+Please complete and submit the result within 24 hours unless otherwise discussed.
